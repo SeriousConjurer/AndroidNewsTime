@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="string_news_app">NEWS time</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="network_connection_failure">Network or Connection failure</string>
+    <string name="Conversion_failure">Conversion failure</string>
+    <string name="stable_connection">Conversion is stable</string>
+    <string name="source">SOURCE</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="title">title</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="business">Business</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+</resources>
